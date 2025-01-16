@@ -10,3 +10,6 @@
 [submodule "CEID_NE584-e-Commerce"]
 	path = CEID_NE584-e-Commerce
 	url = https://github.com/miltiadiss/CEID_NE584-e-Commerce.git
+[submodule "CEID_NY232-Software-Engineering"]
+	path = CEID_NY232-Software-Engineering
+	url = https://github.com/miltiadiss/CEID_NY232-Software-Engineering.git
