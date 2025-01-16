@@ -4,3 +4,6 @@
 [submodule "CEID_NE4348-Big-Data-Management-Systems"]
 	path = CEID_NE4348-Big-Data-Management-Systems
 	url = https://github.com/miltiadiss/CEID_NE4348-Big-Data-Management-Systems.git
+[submodule "CEID_NE562-Data-Mining"]
+	path = CEID_NE562-Data-Mining
+	url = https://github.com/miltiadiss/CEID_NE562-Data-Mining.git
