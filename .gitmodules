@@ -7,3 +7,6 @@
 [submodule "CEID_NE562-Data-Mining"]
 	path = CEID_NE562-Data-Mining
 	url = https://github.com/miltiadiss/CEID_NE562-Data-Mining.git
+[submodule "CEID_NE584-e-Commerce"]
+	path = CEID_NE584-e-Commerce
+	url = https://github.com/miltiadiss/CEID_NE584-e-Commerce.git
