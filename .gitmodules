@@ -1,3 +1,6 @@
 [submodule "CEID_NY463-Advanced-Microprocessors-Lab"]
 	path = CEID_NY463-Advanced-Microprocessors-Lab
 	url = https://github.com/miltiadiss/CEID_NY463-Advanced-Microprocessors-Lab.git
+[submodule "CEID_NE4348-Big-Data-Management-Systems"]
+	path = CEID_NE4348-Big-Data-Management-Systems
+	url = https://github.com/miltiadiss/CEID_NE4348-Big-Data-Management-Systems.git
